@@ -1,0 +1,14 @@
+h2{
+    color:red;
+    font-sizE:40px;
+    text-transform: capitalize;
+}
+p
+{
+    color:blue;
+    font-size:40px;
+    text-transform: uppercase;
+}
+#manikanta h2{
+    color:red;
+}
